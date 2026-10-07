@@ -1,0 +1,1 @@
+![CI](https://github.com/amostingwork/mlops-course-churn-ci-demo/actions/workflows/ci.yml/badge.svg)
